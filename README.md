@@ -1,5 +1,5 @@
 # React + Vite
-https://todolist1306.netlify.app/
+https://todolist1306.netlify.app/  <-- use link to use the todo project
 this is the Todo web where you can make your schedule of your work with checklist and it save your data with in the local storage 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
